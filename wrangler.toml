@@ -1,8 +1,0 @@
-name = "virginia-applicant-portal"
-main = "src/index.js" # Update this to your worker entry point path if it's different
-compatibility_date = "2026-01-01"
-
-[[d1_databases]]
-binding = "DB" # This is how your code connects to the database
-database_name = "virginia"
-database_id = "YOUR_D1_DATABASE_ID_FROM_CLOUDFLARE"
