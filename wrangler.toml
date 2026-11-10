@@ -1,0 +1,8 @@
+‎name = "virginia-applicant-portal"
+‎main = "src/index.js" # Update this to your worker entry point path if it's different
+‎compatibility_date = "2026-01-01"
+‎
+‎[[d1_databases]]
+‎binding = "DB" # This is how your code connects to the database
+‎database_name = "virginia"
+‎database_id = "79d7de99-1127-4633-9246-af4232e56fab"
